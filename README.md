@@ -1,4 +1,4 @@
-# R_Istat
+# R Istat
 Estrazione ed analisi dati banca dati Istat
 
 Utilizzo di R per estrarre ed analizzare i dati dal repository di ISTAT
